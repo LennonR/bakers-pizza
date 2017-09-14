@@ -5,11 +5,11 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ## To Deploy
 
-`npm run build`
-`surge` to the /build directory
+* `npm run build`
+* `surge` to the /build directory
 
 ## Staging URL
-[bakers-pizza.surge.sh](bakers-pizza.surge.sh)
+[bakers-pizza.surge.sh](http://bakers-pizza.surge.sh)
 
 
 ## Table of Contents
